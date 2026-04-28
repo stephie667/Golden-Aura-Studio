@@ -1,0 +1,21 @@
+* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    scroll-behavior: smooth;
+}
+
+h1, h2, .logo {
+    font-family: 'Playfair Display', serif;
+
+}
+.nav-links :hover{
+    background-color: #d4af37;
+    padding: 10px;
