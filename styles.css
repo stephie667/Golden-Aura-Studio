@@ -18,7 +18,8 @@ h1, h2, .logo {
 }
 .nav-links :hover{
     background-color: #d4af37;
-    padding: 10px;
+    padding: 5px;
+    gap: 60px;
     }
 
 .container {
