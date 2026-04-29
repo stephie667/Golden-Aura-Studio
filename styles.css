@@ -85,3 +85,13 @@ nav {
 .photo-card:hover img {
     transform: scale(1.1);
 }
+/* Contact Form */
+.contact-section { padding: 5rem 0; background: #0f0f0f; }
+.contact-section h2 { text-align: center; color: #d4af37; margin-bottom: 1rem; }
+.contact-section p { text-align: center; margin-bottom: 3rem; opacity: 0.7; }
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
