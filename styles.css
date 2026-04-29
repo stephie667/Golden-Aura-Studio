@@ -126,3 +126,6 @@ input:focus, textarea:focus {
 }
 
 .btn:hover { background: #fff; }
+
+footer { padding: 3rem; text-align: center; font-size: 0.8rem; opacity: 0.5; }
+
