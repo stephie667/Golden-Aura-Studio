@@ -129,3 +129,7 @@ input:focus, textarea:focus {
 
 footer { padding: 3rem; text-align: center; font-size: 0.8rem; opacity: 0.5; }
 
+/* responsive design */
+ @media screen {max-width:768px;}
+    
+ 
